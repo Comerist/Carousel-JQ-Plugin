@@ -22,7 +22,8 @@
 
 - 每个轮播图最外层都需要设置 data-carousel属性标识，需要设置这个外层容器的样式
 - 需要引入carousel.css样式文件
-- 需要引入carousel.js脚本文件 -并且依赖jQuery文件
+- 需要引入carousel.js脚本文件 
+- 并且依赖jQuery文件
 
 ## 调用插件接口
 ```javascript
